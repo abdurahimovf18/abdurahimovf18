@@ -11,6 +11,3 @@ I’m a backend developer with a passion for solving real-world business problem
 - **DevOps** - Docker, Docker Compose, Git, CI/CD (GitHub Actions), S3, Nginx, Linux
 - **Languages** - English (B2), Russian (B1)
 - **Other** - UV, Make, Ruff, PyRight
-
-### 📫 Contact Me
-- [Email](mailto:fazliddin1801@gmail.com)
