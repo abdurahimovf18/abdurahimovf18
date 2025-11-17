@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I’m Fazliddin 👋
 
-<!--
-**abdurahimovf18/abdurahimovf18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer passionate about building systems that are **scalable, reliable, and maintainable**.  
+I focus on **backend, frontend, and DevOps** to make software work smoothly from idea to production.  
 
-Here are some ideas to get you started:
+Even if you don’t know programming, my work is about **making apps and services that people can use safely and efficiently**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+### Backend
+- Python, FastAPI, Flask  
+- SQL (PostgreSQL, MySQL), Redis  
+- Microservices & Clean Architecture  
+- RabbitMQ, Celery  
+
+### Frontend
+- HTML, CSS, JavaScript, TypeScript  
+- React, Vue.js (basic)  
+- Building intuitive, user-friendly interfaces  
+
+### DevOps / Tools
+- Docker, Docker Compose  
+- Git, GitHub Actions, CI/CD  
+- AWS S3 / MinIO, Nginx  
+- Basic monitoring & logging  
+
+---
+
+## 🔍 What I Do
+- Design **scalable microservices**  
+- Build **clean, maintainable codebases**  
+- Ensure systems are **production-ready** and secure  
+
+---
+
+## 📫 Contact Me
+- [LinkedIn](https://linkedin.com/in/your-link)  
+- [Email](mailto:your.email@example.com)
